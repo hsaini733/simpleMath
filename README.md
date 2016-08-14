@@ -1,0 +1,2 @@
+# simpleMath
+Some mathematical projects
